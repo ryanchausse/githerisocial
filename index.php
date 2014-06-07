@@ -29,7 +29,7 @@ Githeri.com Copyright 2013. All Rights Reserved.
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Project name</a>
+          <a class="navbar-brand" href="#">Githeri</a>
         </div>
         <div class="navbar-collapse collapse">
           <form class="navbar-form navbar-right" role="form">
@@ -48,8 +48,8 @@ Githeri.com Copyright 2013. All Rights Reserved.
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
       <div class="container">
-        <h1>Hello, world!</h1>
-        <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
+        <h1>Karibu Githeri!</h1>
+        <p>Githeri is the #1 place where you can chat with your friends and share pics in Kiswahili and English</p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
       </div>
     </div>
@@ -58,18 +58,18 @@ Githeri.com Copyright 2013. All Rights Reserved.
       <!-- Example row of columns -->
       <div class="row">
         <div class="col-md-4">
-          <h2>Heading</h2>
-          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+          <h2>A Social Place for Kenyans</h2>
+          <p>Have you ever wanted to use something more Kenya-centric than Facebook? Here it is. Go ahead and chat with all of your Kiswahili-speaking neighbours.</p>
           <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
-          <h2>Heading</h2>
-          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+          <h2>Share Messages</h2>
+          <p>A simple interface means you can easily message your friends. There aren't any advertisements or other distractions.</p>
           <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
        </div>
         <div class="col-md-4">
-          <h2>Heading</h2>
-          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+          <h2>Data Sensitive</h2>
+          <p>Githeri is built from the ground up to be data light. So you don't spend thousands (of MBs and shillings!) on data. </p>
           <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
       </div>
@@ -77,7 +77,7 @@ Githeri.com Copyright 2013. All Rights Reserved.
       <hr>
 
       <footer>
-        <p>&copy; Company 2014</p>
+        <p>&copy; Githeri.com 2014</p>
       </footer>
     </div> <!-- /container -->
     <!-- Bootstrap core JavaScript
