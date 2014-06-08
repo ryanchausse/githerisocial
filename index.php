@@ -50,7 +50,7 @@ Githeri.com Copyright 2013. All Rights Reserved.
       <div class="container">
         <h1>Karibu Githeri!</h1>
         <p>Githeri is the #1 place where you can chat with your friends and share pics in Kiswahili and English</p>
-        <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
+        <p><a class="btn btn-primary btn-lg" role="button">Sign Up &raquo;</a></p>
       </div>
     </div>
 
@@ -60,17 +60,17 @@ Githeri.com Copyright 2013. All Rights Reserved.
         <div class="col-md-4">
           <h2>A Social Place for Kenyans</h2>
           <p>Have you ever wanted to use something more Kenya-centric than Facebook? Here it is. Go ahead and chat with all of your Kiswahili-speaking neighbours.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+          <!--<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>-->
         </div>
         <div class="col-md-4">
           <h2>Share Messages</h2>
           <p>A simple interface means you can easily message your friends. There aren't any advertisements or other distractions.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+          <!--<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>-->
        </div>
         <div class="col-md-4">
           <h2>Data Sensitive</h2>
           <p>Githeri is built from the ground up to be data light. So you don't spend thousands (of MBs and shillings!) on data. </p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+          <!--<p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>-->
         </div>
       </div>
 
